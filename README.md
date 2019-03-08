@@ -2,6 +2,20 @@
 
 This project aims to encode patterns in music notes (chords) in multi-instrument music scores by means of auto-encoder.
 
+PyTorch is used for building NN autoencoder.
+
+Training data comes from [LAKH PIANOROLL DATASET](https://salu133445.github.io/lakh-pianoroll-dataset/dataset)
+
+The trained encoder encodes 5-track music scores (in pianoroll format from midi files) which looks like this:
+
+![alt text](https://raw.githubusercontent.com/hellokikicat/chord_encoder/master/imgs/pianoroll0.png) 
+
+to something like this:
+
+![alt text](https://raw.githubusercontent.com/hellokikicat/chord_encoder/master/imgs/encoding0.png) 
+
+### More sample encodings:
+
 ![alt text](https://raw.githubusercontent.com/hellokikicat/chord_encoder/master/imgs/midi_00100.png) 
 
 ![alt text](https://raw.githubusercontent.com/hellokikicat/chord_encoder/master/imgs/midi_02100.png) 
