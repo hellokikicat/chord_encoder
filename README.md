@@ -6,14 +6,14 @@ This project aims to encode patterns in music notes (chords) in multi-instrument
 
 ![alt text](https://raw.githubusercontent.com/hellokikicat/chord_encoder/master/imgs/midi_02100.png) 
 
-![alt text](https://raw.githubusercontent.com/hellokikicat/chord_encoder/master/imgs/midi_00740.png) 
+![alt text](https://raw.githubusercontent.com/hellokikicat/chord_encoder/master/imgs/midi_07400.png) 
 
-![alt text](https://raw.githubusercontent.com/hellokikicat/chord_encoder/master/imgs/midi_00920.png) 
+![alt text](https://raw.githubusercontent.com/hellokikicat/chord_encoder/master/imgs/midi_09200.png) 
 
 ![alt text](https://raw.githubusercontent.com/hellokikicat/chord_encoder/master/imgs/midi_00700.png) 
 
-![alt text](https://raw.githubusercontent.com/hellokikicat/chord_encoder/master/imgs/midi_00720.png) 
+![alt text](https://raw.githubusercontent.com/hellokikicat/chord_encoder/master/imgs/midi_07200.png) 
 
-![alt text](https://raw.githubusercontent.com/hellokikicat/chord_encoder/master/imgs/midi_00840.png) 
+![alt text](https://raw.githubusercontent.com/hellokikicat/chord_encoder/master/imgs/midi_08400.png) 
 
-![alt text](https://raw.githubusercontent.com/hellokikicat/chord_encoder/master/imgs/midi_00980.png) 
+![alt text](https://raw.githubusercontent.com/hellokikicat/chord_encoder/master/imgs/midi_09800.png) 
